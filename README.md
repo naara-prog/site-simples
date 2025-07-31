@@ -51,5 +51,34 @@ Esse projeto será base para futuras implementações com:
 🛠 Em evolução – melhorias serão aplicadas em breve
 
 ---
+# 📘 Estudos em HTML, CSS e JavaScript
+
+Este repositório reúne meus estudos práticos e teóricos em front-end.  
+É baseado em anotações que desenvolvi com base em cursos, projetos e prática pessoal.
+
+🔗 Veja a versão organizada no Notion:  
+👉 [Clique aqui para abrir o conteúdo](https://www.notion.so/HTML-CSS-E-JAVASCRIPT-23b0afe0ab1580f685e5ca15f4c4542b?v=2340afe0ab15819499e2000ca4c2a84d&source=copy_link)
+
+---
+
+## 🧩 Tópicos estudados
+
+- Estrutura HTML
+- Formulários
+- Flexbox e Grid
+- Estilização básica e avançada com CSS
+- JavaScript: manipulação DOM, funções, arrays, objetos e mais
+
+---
+
+## 🎯 Objetivo
+
+Consolidar aprendizado contínuo e ter um histórico público do meu progresso como desenvolvedora.
+
+## 💡 Diferencial
+
+Todos os estudos têm aplicação prática. Parte deles se transformam em mini-projetos.
+
+
 
 Feito com 💜 por [Naara](https://github.com/naara-prog)
